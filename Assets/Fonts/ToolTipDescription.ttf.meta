@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9c04c45dcc9132042ab79eb4b591e711
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Athabasca
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 552db0378d1333343a0943c85f6a94cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
